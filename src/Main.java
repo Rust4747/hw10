@@ -17,7 +17,7 @@ public class Main {
             
         }
         System.out.println("phone = " + phone);
-        String expPhone= "79055099966";
+        String expPhone= "79055097966";
         if (phone.equals(expPhone)) {
             System.out.println("успех");
         } else {
